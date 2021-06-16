@@ -1,0 +1,16 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    .input{
+        width: 70%;
+    }
+    .title{
+        height:50px
+    }
+    .description{
+        height:150px
+    }
+}

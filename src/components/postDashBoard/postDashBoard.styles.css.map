@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,OAAO,EAAC,IAAI;EACZ,cAAc,EAAC,MAAM;EACrB,eAAe,EAAC,aAAa;CAYhC;;AAfD,AAKI,UALM,CAKN,KAAK,CAAA;EACF,MAAM,EAAE,mBAAmB;EAC3B,UAAU,EAAE,GAAG;EACf,aAAa,EAAE,MAAM;EACrB,OAAO,EAAE,KAAK;CAChB;;AAVL,AAWI,UAXM,CAWN,OAAO,CAAA;EACH,KAAK,EAAE,EAAE;CACZ",
+    "sources": [
+        "postDashBoard.styles.scss"
+    ],
+    "names": [],
+    "file": "postDashBoard.styles.css"
+}

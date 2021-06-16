@@ -1,0 +1,16 @@
+.container{
+    margin-top: 10px;
+    .post{
+        border: 2px solid #091530;
+        border-radius:  1em;
+        padding-top: 2%;
+        padding-left: 2%;
+        margin: 0 1% 0 1%;
+    }
+    .comments{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-between
+    }
+}

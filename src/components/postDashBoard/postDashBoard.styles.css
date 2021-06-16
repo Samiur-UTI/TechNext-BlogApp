@@ -1,0 +1,24 @@
+.all-posts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.all-posts .post {
+  border: 2.5px solid #2d518c;
+  margin-top: 1em;
+  border-radius: 0.5rem;
+  padding: 0.5em;
+}
+
+.all-posts .button {
+  width: 8%;
+}
+/*# sourceMappingURL=postDashBoard.styles.css.map */

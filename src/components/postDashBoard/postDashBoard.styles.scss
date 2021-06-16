@@ -1,0 +1,16 @@
+.all-posts{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+
+    .post{
+       border: 2.5px solid #2d518c;
+       margin-top: 1em;
+       border-radius: 0.5rem;
+       padding: 0.5em; 
+    }
+    .button{
+        width: 8%;
+    }
+   
+}
